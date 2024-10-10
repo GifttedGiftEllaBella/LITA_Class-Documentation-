@@ -22,3 +22,6 @@ to qury a data
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
+
+### Data Visualization
+images
