@@ -17,11 +17,18 @@ My first project while learning Data Analysis with the Incubator Hub
 ### Exploratory Data Analysis
 
 ### Data Analysis
+to qury a data;
 
-to qury a data 
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
+```
 
 ### Data Visualization
 images
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
